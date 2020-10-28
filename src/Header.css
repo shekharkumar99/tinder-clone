@@ -1,0 +1,17 @@
+.header_logo{
+    object-fit: contain;
+    height: 40px;
+    width: 40px;
+    padding-left: 300px;
+    }
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 100;
+    border-bottom: 1px solid white;
+}
+.person_icon{
+
+    
+}
