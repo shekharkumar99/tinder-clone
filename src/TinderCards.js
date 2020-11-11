@@ -8,6 +8,10 @@ function TinderCards() {
         {
             name: "Elon Musk",
             url: "https://mk0spaceflightnoa02a.kinstacdn.com/wp-content/uploads/2020/09/48878769566_5f4640a97d_k.jpg",
+        },
+        {
+            name: "Elon Musk",
+            url: "https://mk0spaceflightnoa02a.kinstacdn.com/wp-content/uploads/2020/09/48878769566_5f4640a97d_k.jpg",
         }
         
     ]);
